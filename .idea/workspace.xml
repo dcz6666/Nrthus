@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc0fef97-aeae-48a8-8731-9b52591e7634" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/WHY.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/Whitepaper-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/b-team.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/bg-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/content_us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/j-g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/s-g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/s-r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/whitepaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/nav-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/tag/3-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/tag/3-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/tag/3-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/tag/3-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/tag/banner-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/tag/c-qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/tag/c-wx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/11.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/team/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/models/tzyx.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.mobile-1.4.5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/change_password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/retrieve_password.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/dictionaries/jonavon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/libraries/GOPATH__tesclo_ico_web_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/controllers/bingfa.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/models/coin.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/models/paginator.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_17副本.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/03_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/1920-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/2-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/2-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/2-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/22b92432f7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/3-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/3-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/3-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/.ruby-version" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/css/font-awesome-ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/css/font-awesome-ie7.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/font/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/font/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/font/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/font/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/font/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/extras.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/font-awesome-ie7.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/_extras.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/font-awesome-ie7.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/ads/carbon-dark-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/ads/carbon-light-horizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/ads/carbon-light-vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/brand-license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/cheatsheet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/community.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/community/getting-support.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/community/project-milestones.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/community/reporting-bugs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/community/requesting-new-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/community/submitting-pull-requests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/animated-spinner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/bordered-pulled.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/bulleted-lists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/button-dropdowns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/button-groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/form-inputs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/inline-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/larger-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/rotated-flipped.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/examples/stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/get-started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/brand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/currency.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/directional.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/medical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/text-editor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/video-player.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/icons/web-application.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/jumbotron-slider.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/jumbotron.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/license-code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/stripe-ad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/stripe-social.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/tell-me-thanks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped-inside-anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped-inside-btn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/tests/rotated-flipped.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/tests/stacked-inside-anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/tests/stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/thanks-to.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/whats-new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_includes/why.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_layouts/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_layouts/icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_plugins/icon_page_generator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/_plugins/site.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/css/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/css/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/font/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/extras.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/font-awesome-ie7.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_extras.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/font-awesome-ie7.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/ico/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/img/contribution-sample.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/img/fort_awesome.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/img/icon-flag.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/ZeroClipboard-1.1.7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/ZeroClipboard-1.1.7.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/backbone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/bootstrap-2.3.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/bootstrap-222.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/prettify.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/site.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/js/underscore.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/accordion.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/hero-unit.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/labels-badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/layouts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/reset.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-1200px-min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-767px-max.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-768px-979px.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/responsive.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/sprites.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/bootstrap-2.3.2/wells.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/lazy.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/responsive-1200px-min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/responsive-767px-max.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/responsive-768px-979px.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/responsive-navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/responsive.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/site.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/sticky-footer.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/assets/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/cheatsheet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/community.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/design.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/examples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/get-started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/icons.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Font-Awesome-3.2.1/src/whats-new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/Nerthus白皮书V0.0.1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/amazeui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/baipi/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/baipi/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/baipi/verlet-1.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap.mins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/docs.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/WechatIMG10.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/WechatIMG16.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/WechatIMG20.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/WechatIMG6.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/WechatIMG7.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/WechatIMG8.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/cc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/cc副本.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/fh副本.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/gjf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/men-b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/men-b.pg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/w.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/wc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/yjh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/yjl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/yjw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/微信图片_20170629170811.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/iscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a8008ae7f7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/a9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/b05b0c6962.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/fe00425d0a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/r.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/team_a_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/team_g_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jianli/team_z_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/jquery.zclip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/loading.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/move/sintel.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/move/three.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/new9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/WechatIMG54.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/WechatIMG55.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/WechatIMG56.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/WechatIMG69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/jquery.planetarium.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/jquery.planetarium.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/planetarium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/stardust.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/texture-earth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/texture-jupiter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/one/texture-saturn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/other.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/page/bellows-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/page/bellows.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/page/bellows.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/page/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/page/lrtk.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/page/velocity.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/men-b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/叶继文.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/廖立夏.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/朱美瑜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/李辰.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/photo/黄凯.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/jquery.movebg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/jquery.sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/particles.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/show.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/stats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/public/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/svg/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/team/team_z_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/tesclo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/texing/index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/texing/miaov.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/texing/miaov_style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate-master.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/assets/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/assets/jquery.fittext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/assets/jquery.lettering.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/assets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/jquery.textillate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/textillate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/fonts/Exo2-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/fonts/OpenSans-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/bnr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/bnr2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/social.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/t1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/t2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/t3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/testi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/images/to-top1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/3副本.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/8d526302c06159bbf9b3d62bc36a2d76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/b938e5f983bcb656dc695666ea028cc8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/blocks1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/quotation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/img/wordcloud.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/js/easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/js/jquery.flexisel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/js/lightbox-plus-jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/js/move-top.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/js/responsiveslides.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/notices.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/WechatIMG5.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_alex.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_ben.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_connor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_damon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_ethan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_jason.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_jessie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_paul.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_qiangmin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_tom.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_vincent.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/theme/team/team_yating.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/time/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/time/nature-q-c-640-480-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/time/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/首页_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/team_z_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/tesclo_ico_web" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/theme/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/utils/function.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/back.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/baipi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/default.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/icos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/index.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/jianli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/jianli_pc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/mobilebaipi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/move.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/new1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/new2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/new3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/newIndex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/test.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_crystal_black.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_crystal_black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_crystal_white.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_crystal_white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_flip_black.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_flip_black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_flip_white.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_flip_white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_metal_black.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_metal_black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_metal_white.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_metal_white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_slide_black.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_slide_black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_slide_white.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown_slide_white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg1.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg2.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/fh.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/fh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/icobtn.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/icobtn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/l.jpg" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/l.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/l1.jpg" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/l1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/l1.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/l1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/logo.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/men-a.jpg" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/men-a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/property.png" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/img/property.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/misc.xml" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/vcs.xml" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/conf/app.conf" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/conf/app.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/controllers/default.go" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/controllers/default.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/main.go" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/models/ico.go" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/models/ico.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/models/utility.go" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/models/utility.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/routers/router.go" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/routers/router.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/animate.min.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/animate.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrapValidator.min.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/bootstrapValidator.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jcountdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jquery.countdown.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jquery.countdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jquery.fullPage.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/jquery.fullPage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/main.css" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/bootstrapValidator.min.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/bootstrapValidator.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jqPaginator.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jqPaginator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery-3.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.countdown.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.countdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.fullPage.min.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.fullPage.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.jcountdown.min.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.jcountdown.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.min.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/main.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/npm.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/reload.min.js" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/static/js/reload.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/tesclo_ico_web.iml" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/tesclo_ico_web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/tests/default_test.go" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/tests/default_test.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/default.html" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/icoindex.html" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/icoindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html" afterPath="$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ico.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="283" column="15" lean-forward="true" selection-start-line="283" selection-start-column="15" selection-end-line="283" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tesclo_ico_web.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/tesclo_ico_web.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="577" column="95" lean-forward="true" selection-start-line="577" selection-start-column="95" selection-end-line="577" selection-end-column="95" />
+              <folding>
+                <marker date="1502267391049" expanded="false" signature="39743:39817" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="39845:39864" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="39896:39960" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="39995:40062" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="40930:40969" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="41264:41278" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="41427:41441" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="41576:41590" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="41929:41943" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="42091:42105" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="42237:42251" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="42373:42390" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="42844:42858" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="43006:43020" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="43152:43166" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="43394:43413" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="43534:43548" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="43698:43712" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="43801:43819" ph="..." />
+                <marker date="1502267391049" expanded="false" signature="43943:43969" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/routers/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bg-t</find>
+      <find>input_box</find>
+      <find>层</find>
+      <find>更彻底去中心化</find>
+      <find>imgs1</find>
+      <find>bans1</find>
+      <find>options</find>
+      <find>jquery</find>
+      <find>team-person-about</find>
+      <find>传统的区块</find>
+      <find>更彻底</find>
+      <find>has-feedback</find>
+      <find>获得</find>
+      <find>NTC</find>
+      <find>biao1</find>
+      <find>hero</find>
+      <find>hero-</find>
+      <find>preico</find>
+      <find>NHC</find>
+      <find>cny-count</find>
+      <find>创始人项目介绍</find>
+      <find>coin</find>
+      <find>参与</find>
+      <find>dateFtt</find>
+      <find>cointype</find>
+      <find>showHandleLogDetails</find>
+      <find>nav</find>
+      <find>formw1</find>
+      <find>gz</find>
+      <find>blockquote</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/tesclo_ico_web" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/conf/app.conf" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/routers/router.go" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/models/tzyx.go" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/controllers/default.go" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/static/css/other.css" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/static/css/login.css" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/views/retrieve_password.html" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/views/login.html" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/views/change_password.html" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html" />
+        <option value="$PROJECT_DIR$/src/tesclo_ico_web/views/default.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tesclo_ico_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pkg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="windows_amd64" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pkg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="windows_amd64" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/keplercoin1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="go" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0fef97-aeae-48a8-8731-9b52591e7634" name="Default" comment="" />
+      <created>1500887125148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500887125148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2" y="0" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0204236" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24355671" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2782324" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32753405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8550">
+          <caret line="450" column="29" lean-forward="true" selection-start-line="450" selection-start-column="29" selection-end-line="450" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/css/other.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6631">
+          <caret line="741" column="11" lean-forward="true" selection-start-line="741" selection-start-column="11" selection-end-line="741" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/css/other.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4332">
+          <caret line="387" column="84" lean-forward="false" selection-start-line="387" selection-start-column="84" selection-end-line="387" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7524">
+          <caret line="396" column="31" lean-forward="false" selection-start-line="396" selection-start-column="31" selection-end-line="396" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/css/other.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4332">
+          <caret line="387" column="84" lean-forward="false" selection-start-line="387" selection-start-column="84" selection-end-line="387" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7524">
+          <caret line="396" column="31" lean-forward="true" selection-start-line="396" selection-start-column="31" selection-end-line="396" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16511">
+          <caret line="871" column="35" lean-forward="false" selection-start-line="871" selection-start-column="35" selection-end-line="871" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3154">
+          <caret line="166" column="11" lean-forward="false" selection-start-line="166" selection-start-column="11" selection-end-line="166" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4332">
+          <caret line="387" column="84" lean-forward="false" selection-start-line="387" selection-start-column="84" selection-end-line="387" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16511">
+          <caret line="871" column="35" lean-forward="false" selection-start-line="871" selection-start-column="35" selection-end-line="871" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3154">
+          <caret line="166" column="11" lean-forward="true" selection-start-line="166" selection-start-column="11" selection-end-line="166" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4332">
+          <caret line="387" column="84" lean-forward="false" selection-start-line="387" selection-start-column="84" selection-end-line="387" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="60" lean-forward="false" selection-start-line="69" selection-start-column="60" selection-end-line="69" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7353">
+          <caret line="387" column="84" lean-forward="false" selection-start-line="387" selection-start-column="84" selection-end-line="387" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/models/tzyx.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7353">
+          <caret line="387" column="84" lean-forward="false" selection-start-line="387" selection-start-column="84" selection-end-line="387" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/models/tzyx.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/img/bg/content_us.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/models/ico.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/models/tzyx.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/js/html5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="51" lean-forward="false" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="328" column="16" lean-forward="false" selection-start-line="328" selection-start-column="16" selection-end-line="328" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/css/login.css" />
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/change_password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/retrieve_password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="78" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="111" column="37" lean-forward="false" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/static/css/other.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/ico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="283" column="15" lean-forward="true" selection-start-line="283" selection-start-column="15" selection-end-line="283" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/tesclo_ico_web.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tesclo_ico_web/views/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="577" column="95" lean-forward="true" selection-start-line="577" selection-start-column="95" selection-end-line="577" selection-end-column="95" />
+          <folding>
+            <marker date="1502267391049" expanded="false" signature="39743:39817" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="39845:39864" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="39896:39960" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="39995:40062" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="40930:40969" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="41264:41278" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="41427:41441" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="41576:41590" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="41929:41943" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="42091:42105" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="42237:42251" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="42373:42390" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="42844:42858" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="43006:43020" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="43152:43166" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="43394:43413" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="43534:43548" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="43698:43712" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="43801:43819" ph="..." />
+            <marker date="1502267391049" expanded="false" signature="43943:43969" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>go</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
